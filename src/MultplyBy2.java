@@ -1,3 +1,4 @@
+import java.util.*;
 public class MultplyBy2 {
     public static int findFinalValue(int[] nums, int original)
     {
